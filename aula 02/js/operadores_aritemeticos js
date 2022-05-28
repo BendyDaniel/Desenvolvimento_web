@@ -1,0 +1,25 @@
+var salario = 4000
+var salarioReajustado=salario + 1500
+var valorcarro=60000
+var desconto=1000
+var valorCarroComDesconto=valorcarro - desconto
+
+//adição
+var num1=5
+var num2=10
+var resultadoAdicao=num1 + num2
+console log
+//subtração
+var n1=20
+var n2=11
+var resultadoSubtracao=n1 - n2
+
+//mutiplicação
+var numeromutiplo1=12
+var numeromutiplo2=12
+var resultadomutiplicacao=numeromutiplo1*numeromutiplo2
+
+//divisão
+var numerodivisor1=9
+var numerodivisor2=2
+var resultadodivisao=numerodivisor1/numerodivisor2
