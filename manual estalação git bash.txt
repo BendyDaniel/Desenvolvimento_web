@@ -1,0 +1,26 @@
+baixar git bash
+
+https://git-scm.com/download/win
+
+fazer entrar no github ou criar uma conta no github
+
+abrir git bash
+configurar git bash
+-configurar nome de usuario
+git config --global user.name "BendyDaniel"
+
+git config --global user.name "daniel751394@gmail.com"
+
+criar repositório no github 
+
+criar .git
+
+      -git init
+
+
+referenciar repositorio remoto no repositorio local
+
+git status - ver status dos arquivos
+git add - prepara arquivos para subir no github
+git commit-m "mensagem" adicionar mensagem para evidenciar o commit
+git bush

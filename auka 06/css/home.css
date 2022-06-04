@@ -1,0 +1,19 @@
+.main{
+display: flex;
+}
+.main p{
+    
+margin: left 8%; ;
+}
+.nome {
+
+ color: rgb(226, 102, 102);
+}
+.idade{
+
+color: rgb(94, 182, 240);
+}
+.telefone{
+
+color: pink;
+}
